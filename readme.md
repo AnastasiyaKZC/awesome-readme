@@ -1,4 +1,5 @@
 [Ссылка на репозиторий](https://github.com/qa-guru/knowledge-base/wiki/Github-README.md)
+
 [Ссылка на занятие](https://school.qa.guru/pl/teach/control/lesson/view?id=241129188&editMode=0)
 
 
